@@ -8,7 +8,7 @@ This repository contains notebooks developed for our research project on the ste
 
 ## Table of Contents
 
-Notebooks for figures in our paper
+Notebooks for figures in our paper (`~/paper-figures`)
 - `01_warped_disk_geometry`
   
 Notebooks for analytical and semi-analytical calculations
