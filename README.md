@@ -1,14 +1,18 @@
 
 # Warped Disk Hydrodynamics
 
-This repository contains notebooks developed for a research project on the steady-state structure and nonlinear evolution of warped disks. The materials here are used to explore theoretical predictions, analyze hydrodynamic simulations, and produce diagnostic and illustrative figures relevant to warped-disk dynamics.
-
-## Contents
-
-The repository includes notebooks for:
+This repository contains notebooks developed for our research project on the steady-state structure and nonlinear evolution of warped disks, including:
 - analytic and semi-analytic calculations of warped-disk structure
 - analysis scripts for hydrodynamic simulation outputs
 - visualization notebooks used in this project 
+
+## Table of Contents
+
+Notebooks for figures in our paper
+- `01_warped_disk_geometry`
+  
+Notebooks for analytical and semi-analytical calculations
+- TBD
 
 ## Software
 
