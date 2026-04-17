@@ -26,6 +26,4 @@ This repository is primarily intended as a research and documentation resource f
 Some notebooks reflect active development and may evolve over time as the analysis and manuscript progress.
 
 ## Author
-Jiaru Li
-Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)
-Northwestern University
+Jiaru Li  |  Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)  |  Northwestern University
