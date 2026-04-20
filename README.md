@@ -9,8 +9,12 @@ This repository contains notebooks developed for our research project on the ste
 ## Table of Contents
 
 Notebooks for figures in our paper (`~/paper-figures`)
-- `01_warped_disk_geometry`
-- `02_1D_solution`
+- `01_warped_disk_geometry.ipynb`
+- `02_1D_solution.ipynb`
+- `03_hydro_linear_profiles.ipynb`
+- `04_hydro_linear_converge.ipynb`
+- `05_hydro_linear_G_Q2_Q3.ipynb`
+- `06_hydro_linear_field_github.ipynb`
     
 Notebooks for analytical and semi-analytical calculations
 - TBD
