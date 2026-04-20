@@ -10,7 +10,8 @@ This repository contains notebooks developed for our research project on the ste
 
 Notebooks for figures in our paper (`~/paper-figures`)
 - `01_warped_disk_geometry`
-  
+- `02_1D_solution.ipynb`
+    
 Notebooks for analytical and semi-analytical calculations
 - TBD
 
