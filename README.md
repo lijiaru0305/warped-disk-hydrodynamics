@@ -14,7 +14,7 @@ Notebooks for figures in our paper (`~/paper-figures`)
 - `03_hydro_linear_profiles.ipynb`
 - `04_hydro_linear_converge.ipynb`
 - `05_hydro_linear_G_Q2_Q3.ipynb`
-- `06_hydro_linear_field_github.ipynb`
+- `06_hydro_linear_field.ipynb`
     
 Notebooks for analytical and semi-analytical calculations
 - TBD
