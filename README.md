@@ -16,7 +16,7 @@ Notebooks for figures in our paper (`~/paper-figures`)
 - `05_hydro_linear_G_Q2_Q3.ipynb`
 - `06_hydro_linear_field.ipynb`
     
-Notebooks for analytical and semi-analytical calculations
+Notebooks for analytical and semi-analytical calculations (`~/theory-and-calculations`)
 - `shearing-box-model.ipynb`
 
 ## Software
