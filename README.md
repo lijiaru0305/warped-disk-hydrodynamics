@@ -17,7 +17,7 @@ Notebooks for figures in our paper (`~/paper-figures`)
 - `06_hydro_linear_field.ipynb`
     
 Notebooks for analytical and semi-analytical calculations
-- TBD
+- `shearing-box-model.ipynb`
 
 ## Software
 
